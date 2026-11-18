@@ -1,0 +1,1 @@
+Telegram alert AWS Lambda funkce
